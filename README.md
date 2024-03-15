@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about all things .NET and C#, with 
 
 Below are some projects I've worked on. They range from web applications to experimental game development projects. Feel free to check them out and contribute!
 
-- **Project 1: .NET 8 Blazor Application** [https://github.com/FernMiran/ComicApp_CLEAN] - A Blazor web application using CLEAN Architecture, Fluent APIs, Generic Repositories, Domain-Driven Design and CQRS
+- **Project 1: .NET 8 Blazor Application** [https://github.com/FernMiran/ComicApp_CLEAN] - A Blazor web application using CLEAN Architecture, Fluent APIs, Generic Repositories, Domain-Driven Design and CQRS MediatR.
 - **Project 2: .NET 6 Blazor CRUD Application** [https://github.com/FernMiran/BlazorFullStack_ComicCRUD] - A project to practice the use of DTOs, the Service-Repository pattern and the creation of APIs.
 
 ## 🤝 How to Contribute
