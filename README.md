@@ -30,15 +30,3 @@ Below are some projects I've worked on. They range from web applications to expe
 
 - **Project 1: .NET 8 Blazor CLEAN Web Application** [https://github.com/FernMiran/ComicApp_CLEAN] - A Blazor web application using CLEAN Architecture, Fluent APIs, Generic Repositories, Domain-Driven Design and CQRS MediatR.
 - **Project 2: .NET 6 Blazor N-Tier Web Application** [https://github.com/FernMiran/BlazorFullStack_ComicCRUD] - A project to practice the use of DTOs, the Service-Repository pattern and the creation of APIs.
-
-## 🤝 How to Contribute
-
-I'm always open to contributions or collaborations on my projects. If you're interested in contributing, please:
-
-1. Fork the repository you're interested in.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-Thank you for visiting my profile, and I look forward to potentially collaborating with you!
