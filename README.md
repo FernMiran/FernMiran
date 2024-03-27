@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about all things .NET and C#, with 
 
 ## 📫 How to reach me
 
-- **Email:** You can email me at [ferrdev@gmail.com] for collaborations, opportunities, or just to say hi!
+- **Email:** You can email me at [ferroydev@gmail.com] for collaborations, opportunities, or just to say hi!
 - **LinkedIn:** Connect with me on LinkedIn [https://www.linkedin.com/in/fernando-miranda-delgado/] to discuss projects, opportunities, or networking.
 
 ## 📂 My Projects
