@@ -29,5 +29,3 @@ Welcome to my GitHub profile! I'm passionate about all things .NET and C#, with 
 Below are some projects I've worked on. They range from web applications to experimental game development projects. Feel free to check them out and contribute!
 
 - **Blackjack 3D made with Unity** [https://github.com/FernMiran/Blackjack-3D] - A 3D implementation of the classic game made with Unity, with a decoupled architecture, realistic 3D card animations, and an intuitive user interface.
-- **.NET 8 Comic Blazor App using Clean Architecture** [https://github.com/FernMiran/ComicApp_Blazor] - A Blazor web application using clean architecture, Fluent APIs, Generic Repositories, Domain-Driven Design, Middlewares and CQRS MediatR.
-- **.NET 6 Blazor N-Tier Web Application** [https://github.com/FernMiran/BlazorFullStack_ComicCRUD] - A project to practice the use of DTOs, the Service-Repository pattern and the creation of APIs in a N-Tier architecture.
