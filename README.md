@@ -1,6 +1,15 @@
-# 👋 Hey, I’m @FernMiran
+# 👋 Welcome! I’m Fernando Miranda,
 
-## Check my work!
+Full-stack developer specialized in NET technologies like Blazor, check out how I work:
 
-- **Blackjack 3D (Unity/C#)** 
-A 3D implementation of the classic game made with Unity, realistic 3D card animations, and an intuitive user interface. [[Play Online](https://play.unity.com/en/games/c82b56b8-952c-4cb1-a42b-bfafc378e3e4/fire-blackjack)]
+## My Work:
+
+### Portfolio Site
+
+Portfolio made using **Blazor**, and deployed to Ubuntu with Docker compose and GitHub actions for a CI/CD pipeline.
+[[Xidoo.dev](https://xidoo.dev)]
+
+### Blackjack 3D
+
+Blackjack 3D game made with **Unity and C#** compatible with Android, Web browsers, and Windows.
+[[Blackjack 3D](https://play.unity.com/en/games/c82b56b8-952c-4cb1-a42b-bfafc378e3e4/fire-blackjack)]
