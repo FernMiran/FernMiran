@@ -2,14 +2,6 @@
 
 Full-stack developer specialized in NET technologies like Blazor, check out how I work:
 
-## My Work:
-
-### Portfolio Site
-
-Portfolio made using **Blazor**, and deployed to Ubuntu with Docker compose and GitHub actions for a CI/CD pipeline.
-
-[[Xidoo.dev](https://xidoo.dev)]
-
 ### Blackjack 3D
 
 Blackjack 3D game made with **Unity and C#** compatible with Android, Web browsers, and Windows.
